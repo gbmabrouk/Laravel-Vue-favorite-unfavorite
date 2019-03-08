@@ -1,0 +1,21 @@
+.center-bloc {
+    margin: 0 auto;
+    position: relative;
+    display: table !important;
+}
+.fav-icon{
+    position: absolute;
+    width: 30px;
+    cursor: pointer;
+    top: 5px;
+    right: 5px;
+}
+.btn-width{
+    min-width: 75px;
+}
+.top-list-width{
+    position: relative;
+    max-width: 450px;
+    left: 50%;
+    transform: translate(-50%);
+}
